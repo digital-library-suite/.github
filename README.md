@@ -1,2 +1,1 @@
-# .github
-Interactive Books Library Suite
+# Interactive Books Library Suite
